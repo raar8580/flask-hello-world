@@ -40,7 +40,7 @@ def inserting():
         ('Stephen', 'Curry', 'San Francisco', 'Warriors', 30),
         ('Nikola', 'Jokic', 'Denver', 'Nuggets', 15),
         ('Kawhi', 'Leonard', 'Los Angeles', 'Clippers', 2),
-        ('Ramon', 'Arroyo', 'CU Boulder', 'Clippers', 2);
+        ('Ramon', 'Arroyo', 'CU Boulder', 'Lakers', 3308);
         ''')
     conn.commit()
     conn.close()
